@@ -1,2 +1,2 @@
 # LedglySite
-This is for the basic site
+This is for the basic site.
